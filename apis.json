@@ -1,0 +1,84 @@
+{
+    "name": "Aladtec",
+    "description": "Aladtec's system is an affordable subscription based online employee scheduling and workforce management system.  Thousands use our system throughout a variety of industries, including:   EMS  FIRE & Rescue  Law Enforcement  Dispatch  Security  Healthc...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/326-aladtec.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "no api definition",
+        "office",
+        "schedules",
+        "workforce management"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aladtec\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aladtec",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/326-aladtec.jpg",
+            "humanURL": "http:\/\/www.aladtec.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aladtec-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aladtec-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/secure2.aladtec.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/aladtec.blogspot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/aladtec.blogspot.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aladtec"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/aladtec"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.aladtec.com\/vendor_api.php"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.aladtec.com\/api_docs.html"
+        },
+        {
+            "type": "Email",
+            "url": "info@aladtec.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@aladtec.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aladtec"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.aladtec.com"
+        }
+    ]
+}
